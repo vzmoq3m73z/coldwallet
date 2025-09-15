@@ -1,0 +1,68 @@
+
+body {
+  margin: 0;
+}
+
+:root {
+  /* Primary */
+  --el-color-primary: #378bdd;
+  --el-color-primary-light-1: #4a96e1;
+  --el-color-primary-light-2: #5da1e5;
+  --el-color-primary-light-3: #70ace9;
+  --el-color-primary-light-4: #83b7ed;
+  --el-color-primary-light-5: #96c2f1;
+  --el-color-primary-light-6: #a9cdf5;
+  --el-color-primary-light-7: #bcd8f9;
+  --el-color-primary-light-8: #cfe3fd;
+  --el-color-primary-light-9: #e2eeff;
+  --el-color-primary-dark-1: #2f7cc7;
+  --el-color-primary-dark-2: #276db1;
+
+  /* Success */
+  --el-color-success: #67c23a;
+  --el-color-success-light-1: #73c947;
+  --el-color-success-light-2: #7fd054;
+  --el-color-success-light-3: #8bd761;
+  --el-color-success-light-4: #97de6e;
+  --el-color-success-light-5: #a3e57b;
+  --el-color-success-light-6: #afec88;
+  --el-color-success-light-7: #bbf395;
+  --el-color-success-light-8: #c7faa2;
+  --el-color-success-light-9: #d3f7af;
+
+  /* Warning */
+  --el-color-warning: #e6a23c;
+  --el-color-warning-light-1: #e9ab49;
+  --el-color-warning-light-2: #ecb456;
+  --el-color-warning-light-3: #efbd63;
+  --el-color-warning-light-4: #f2c670;
+  --el-color-warning-light-5: #f5cf7d;
+  --el-color-warning-light-6: #f8d88a;
+  --el-color-warning-light-7: #fbe197;
+  --el-color-warning-light-8: #feeaa4;
+  --el-color-warning-light-9: #fff3b1;
+
+  /* Danger */
+  --el-color-danger: #f56c6c;
+  --el-color-danger-light-1: #f67979;
+  --el-color-danger-light-2: #f78686;
+  --el-color-danger-light-3: #f89393;
+  --el-color-danger-light-4: #f9a0a0;
+  --el-color-danger-light-5: #faadad;
+  --el-color-danger-light-6: #fbbaba;
+  --el-color-danger-light-7: #fcc7c7;
+  --el-color-danger-light-8: #fdd4d4;
+  --el-color-danger-light-9: #fee1e1;
+
+  /* Info */
+  --el-color-info: #909399;
+  --el-color-info-light-1: #9ca0a6;
+  --el-color-info-light-2: #a8adb3;
+  --el-color-info-light-3: #b4bac0;
+  --el-color-info-light-4: #c0c7cd;
+  --el-color-info-light-5: #ccd4da;
+  --el-color-info-light-6: #d8e1e7;
+  --el-color-info-light-7: #e4eef4;
+  --el-color-info-light-8: #f0fbff;
+  --el-color-info-light-9: #fcfeff;
+}
